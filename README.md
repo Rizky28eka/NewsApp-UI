@@ -1,16 +1,15 @@
-# newsapi_app
+# Slicing NewsApp-UI
 
-A new Flutter project.
+<div align="center">
+  <img src="https://i.postimg.cc/fW0Q6rfh/Jepretan-Layar-2023-06-16-pukul-21-07-01.png" alt="Screenshot 1" width="250">
+  <img src="https://i.postimg.cc/cLdqt4ys/Jepretan-Layar-2023-06-16-pukul-21-07-04.png" alt="Screenshot 1" width="250">
+  <img src="https://i.postimg.cc/3x1sX5Y2/Jepretan-Layar-2023-06-16-pukul-21-07-07.png" alt="Screenshot 1" width="250">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instagram
+Check out our Instagram page [here]([https://www.instagram.com/p/CtWpzL-BcmX/](https://www.instagram.com/p/CtjdzNthmkT/?igshid=NjZiM2M3MzIxNA==)https://www.instagram.com/p/CtjdzNthmkT/?igshid=NjZiM2M3MzIxNA==). 📸
+
