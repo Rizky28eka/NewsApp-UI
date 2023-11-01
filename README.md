@@ -1,15 +1,11 @@
-# Slicing NewsApp-UI
+### Flutter Libraries Utilized
 
-<div align="center">
-  <img src="https://i.postimg.cc/fW0Q6rfh/Jepretan-Layar-2023-06-16-pukul-21-07-01.png" alt="Screenshot 1" width="250">
-  <img src="https://i.postimg.cc/cLdqt4ys/Jepretan-Layar-2023-06-16-pukul-21-07-04.png" alt="Screenshot 1" width="250">
-  <img src="https://i.postimg.cc/3x1sX5Y2/Jepretan-Layar-2023-06-16-pukul-21-07-07.png" alt="Screenshot 1" width="250">
+Here are the Flutter libraries utilized in this project:
 
+- **cupertino_icons:** Cupertino Icons provides icons that align with the iOS design language, allowing you to achieve a consistent appearance with the iOS platform and enhance the look of your app.
 
+- **google_fonts:** Google Fonts is a library that enables you to utilize fonts from Google Fonts, a free service offering hundreds of high-quality fonts. You can dynamically download and apply these fonts without the need to include font assets in your app.
 
+- **equatable:** Equatable helps you create classes that can be easily compared based on their properties. This library is valuable for optimizing your app's performance by preventing unnecessary state updates.
 
-</div>
-
-## Instagram
-Check out our Instagram page [here]([https://www.instagram.com/p/CtWpzL-BcmX/](https://www.instagram.com/p/CtjdzNthmkT/?igshid=NjZiM2M3MzIxNA==)https://www.instagram.com/p/CtjdzNthmkT/?igshid=NjZiM2M3MzIxNA==). 📸
-
+[Instagram Posted](https://www.instagram.com/p/CzHFscIy9FP/)
